@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"unknown","Thu Apr 20 13:48:48 CEST 2023","Thu Apr 20 13:48:48 CEST 2023","39","","A Million More Page - Body","","","","should reload the video when the ""Watch the Story"" button is clicked",""
+"passed","Thu Apr 20 13:48:57 CEST 2023","Thu Apr 20 13:48:57 CEST 2023","15","","A Million More Page - Header","","","","should match the expected title",""
+"unknown","Thu Apr 20 13:48:48 CEST 2023","Thu Apr 20 13:48:48 CEST 2023","74","","A Million More Page - Body","","","","should pause the video when pause button is clicked",""
+"unknown","Thu Apr 20 13:48:48 CEST 2023","Thu Apr 20 13:48:48 CEST 2023","150","","A Million More Page - Body","","","","Model Intro section should contain proper text and heading",""
+"unknown","Thu Apr 20 13:48:48 CEST 2023","Thu Apr 20 13:48:48 CEST 2023","94","","A Million More Page - Body","","","","video should be preloaded when the page opens and should be in a loop and muted also",""
+"unknown","Thu Apr 20 13:48:57 CEST 2023","Thu Apr 20 13:48:57 CEST 2023","84","","A Million More Page - Header","","","","should contain the Volvo logo and quick links",""
+"passed","Thu Apr 20 13:48:48 CEST 2023","Thu Apr 20 13:48:57 CEST 2023","9734","","A Million More Page - Header","","","","URL should be loaded successfully",""

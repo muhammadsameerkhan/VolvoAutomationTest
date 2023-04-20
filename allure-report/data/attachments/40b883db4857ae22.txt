@@ -1,0 +1,6 @@
+{
+  "script": "return (async (url, done) => {\r\n            const response = await fetch(url);\r\n            done(response.status);\r\n        }).apply(null, arguments)",
+  "args": [
+    "https://www.volvocars.com/intl/v/car-safety/a-million-more"
+  ]
+}
